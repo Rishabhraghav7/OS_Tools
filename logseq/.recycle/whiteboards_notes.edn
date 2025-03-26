@@ -1,0 +1,72 @@
+{:blocks (
+{:block/created-at 1742968412396
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [1480 1136]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "a17e35d0-0a06-11f0-994f-3948c2c1bbc1"
+:fontWeight 400
+:noFill false
+:point [-68880 -1088]
+:fontSize 20
+:parentId "67e395d3-5bb9-40ff-b4ce-cb7fe377b570"
+:nonce 1742968404425
+:italic false}}
+:block/updated-at 1742968412396} 
+{:block/created-at 1742968422774
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "text"
+:size [75 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a316b020-0a06-11f0-994f-3948c2c1bbc1"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [-68568 -616]
+:lineHeight 1.2
+:fontSize 60
+:parentId "67e395d3-5bb9-40ff-b4ce-cb7fe377b570"
+:nonce 1742968407088
+:italic false
+:text "hjj"}}
+:block/updated-at 1742968422774})
+:pages (
+{:block/uuid #uuid "67e395d3-5bb9-40ff-b4ce-cb7fe377b570"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "67e395d3-5bb9-40ff-b4ce-cb7fe377b570"
+:name "notes"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("a17e35d0-0a06-11f0-994f-3948c2c1bbc1" "a316b020-0a06-11f0-994f-3948c2c1bbc1")}}
+:block/updated-at 1742968422774
+:block/created-at 1742968275377
+:block/type "whiteboard"
+:block/name "notes"
+:block/original-name "notes"})}
