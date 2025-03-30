@@ -8,5 +8,5 @@ For a broader comparison of operating systems, visit **[OSWatch](https://oswatch
 
 To stay updated with the latest Linux news, tutorials, and distro reviews, check out **[It's FOSS](https://itsfoss.com/)**.  
 
-![Unix History](/FreeBSD/Unix.png)
+[![Unix History](/FreeBSD/Unix.png)](https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg)
 
