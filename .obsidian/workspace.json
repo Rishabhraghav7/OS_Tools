@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FreeBSD.md",
+                "file": "FreeBSD/FreeBSD.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,10 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acff47cb9777298d",
+  "active": "8e43796e32fd2b2a",
   "lastOpenFiles": [
     "CLI File Managers/NNN.md",
-    "FreeBSD.md",
+    "FreeBSD/FreeBSD.md",
     "FreeBSD",
     "CLI File Managers"
   ]
