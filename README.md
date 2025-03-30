@@ -7,3 +7,6 @@ Another great tool for selecting a Linux distro is **[Distros Chooser](https://d
 For a broader comparison of operating systems, visit **[OSWatch](https://oswatch.org/)** to explore different OS options and their features.  
 
 To stay updated with the latest Linux news, tutorials, and distro reviews, check out **[It's FOSS](https://itsfoss.com/)**.  
+
+![Unix History](/FreeBSD/Unix.png)
+
