@@ -1,0 +1,77 @@
+## Basic Navigation
+
+- `nnn` – Launch `nnn`
+    
+- `nnn /path` – Open `nnn` in a specific directory
+    
+- `q` – Quit `nnn`
+    
+- `Ctrl + G` – Show help menu
+    
+
+## File Operations
+
+- `Enter` – Open file or enter directory
+    
+- `^O` – Open with default application
+    
+- `^V` – View file contents
+    
+- `^X` – Open in terminal
+    
+- `^R` – Rename file
+    
+- `dd` – Cut file
+    
+- `yy` – Copy file
+    
+- `pp` – Paste file
+    
+- `x` – Delete file
+    
+- `^Y` – List copy buffer
+    
+- `^U` – Clear selection buffer
+    
+
+## Navigation & Sorting
+
+- `/` – Search
+    
+- `Tab` – Switch context
+    
+- `Backspace` – Go up one directory
+    
+- `^H` – Toggle hidden files
+    
+- `^J` / `^K` – Navigate up/down
+    
+- `^N` / `^P` – Navigate next/previous
+    
+- `^S` – Toggle sorting
+    
+- `~` – Go to home directory
+    
+- `-` – Go to last visited directory
+    
+
+## Plugins & Bookmarks
+
+- `;` – Open plugins menu
+    
+- `B` – Manage bookmarks
+    
+- `^B` – Jump to a bookmarked directory
+    
+
+## Session & Misc
+
+- `Z` – Archive files
+    
+- `^L` – Redraw screen
+    
+- `Esc` – Cancel operation
+    
+- `!` – Spawn shell
+    
+- `^Q` – Quit without saving
