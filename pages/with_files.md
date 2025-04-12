@@ -2,4 +2,11 @@
   ```
   ls
   ```
-  comes with
+  with nerd fonts (icons)
+  ```
+  lsd
+  ```
+  Enhanced `exa`, Git, Symlink
+  ```
+  eza
+  ```
