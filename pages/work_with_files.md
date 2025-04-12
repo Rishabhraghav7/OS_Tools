@@ -19,9 +19,9 @@
   #yay broot / paru broot / pacman -S broot  
   broot
   ```
-- find replacement 
-  # paru fd
+- fd(find replacement) 
   ```
+  # paru fd
   fd <file_name>
   ```
 - Fuzzy finder (all matching files )
@@ -33,5 +33,13 @@
   fzf in rust (similar usage)
   ```
   sk
+  ```
+- repgrep(A search tool,interactive ripgrep)
+  when you install repgrep, ripgrep will be installed as a dependency
+- ```
+  # repgrep
+  rgr <text>
+  # ripgrep
+  rg <text>
   ```
 -
