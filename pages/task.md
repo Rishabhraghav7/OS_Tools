@@ -1,5 +1,4 @@
 - taskwarrior
-  
   terminal based task scheduler
   
   yay task
