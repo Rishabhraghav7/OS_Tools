@@ -36,3 +36,5 @@
 - `Esc` – Cancel operation
 - `!` – Spawn shell
 - `^Q` – Quit without saving
+
+- 
